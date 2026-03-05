@@ -11,7 +11,6 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  // ... 下面的 dependencies 等等保持原样，不要动
   "dependencies": {
     "lucide-react": "^0.577.0",
     "react": "^19.2.0",
